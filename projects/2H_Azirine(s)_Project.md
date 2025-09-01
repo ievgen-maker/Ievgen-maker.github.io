@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/2H_Azirine.png 
-title: "Modeling the Synthesis of Azirine-based Biological Probes Using Density Functional Theory"
+title: "Modeling The Synthesis of Azirine-based Biological Probes Using Density Functional Theory"
 date: 01-22-2025
 published: true
 labels:
