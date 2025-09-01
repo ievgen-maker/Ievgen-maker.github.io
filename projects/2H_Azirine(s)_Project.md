@@ -3,13 +3,13 @@ layout: project
 type: project
 image: img/2H_Azirine.png 
 title: "Modeling the Synthesis of Azirine-based Biological Probes Using Density Functional Theory"
-date: 2025
+date: 01-22-2025
 published: true
 labels:
   - Quntum Chemistry
   - Computational Chemistry
   - Computation & Modeling of New Chemical Syntheses
-summary: "I helped calculate the relative chemical energies (Gibbs-Free Energy, Enthalpy, Electronic) of multiple new synthetic pathways that create biological probes from 2H-Azirine Reactant."
+summary: "I calculated the relative chemical energies (Gibbs-Free Energy, Enthalpy, Electronic) of multiple new synthetic pathways that create biological probes from 2H-Azirine Reactant to better support experimental resuls obtained by the Seebald Lab."
 ---
 
 <div class="text-center p-4">
@@ -26,7 +26,7 @@ To understand reactivity and confirm predicted mechanisms, we calculate the vibr
 Using DFT and calculating the energy differences from the reactants to the products, an entire system can be represented as a reaction coordinate diagram. 
 
 This allows us to identify the rate-determining step and quantitatively compare competing reaction mechanisms.
-Our results demonstrate that the proposed reaction mechanisms are not only plausible but energetically accessible.  Importantly, the energy barrier for TS1 is not insurmountable, supporting the experimental hypothesis that the desired product can indeed form. For the first transition state, two bonds are broken and formed simultaneously, while in the second, bond changes occur asynchronously. These differences arise from variations in energy barriers and structural geometry changes as the reaction progresses. Additionally, the identification of transition states for certain byproducts helped assess competing pathways, further reinforcing the likelihood of the preferred product being formed. 
+Our results demonstrate that the proposed reaction mechanisms are not only plausible but energetically accessible. Importantly, the energy barrier for TS1 is not insurmountable, supporting the experimental hypothesis that the desired product can indeed form. For the first transition state, two bonds are broken and formed simultaneously, while in the second, bond changes occur asynchronously. These differences arise from variations in energy barriers and structural geometry changes as the reaction progresses. Additionally, the identification of transition states for certain byproducts helped assess competing pathways, further reinforcing the likelihood of the preferred product being formed. 
 
 Future work will focus on determining the exact distances between Az-Me and other nucleophiles (Ethanethiol and Acetic Acid) to identify additional transition states for these compounds. This will expand the ability to compare the different synthesis pathways and will point to a reaction that is the most efficient in creating the most covalent probes with the lowest amount of energy.
 
