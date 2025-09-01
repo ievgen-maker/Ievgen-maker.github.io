@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/parrotFish.png 
 title: "Modeling The Hybridization of Pacific Parrot Fish Through Comprassion of Several Phylogetic Softwares"
-date: 01-22-2025
+date: 2025-01-25
 published: true
 labels:
   - Population Genomics
