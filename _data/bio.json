@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Ievgen Borovenskyi",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://avatars.githubusercontent.com/u/229704062?s=400&u=f795c5eeb7bba1807f873a2699113eb964b72b49&v=4",
+    "email": "ievgen@hawaii.edu",
+    "phone": "702-934-4688",
+    "website": "https://ievgen-maker.github.io",
+    "summary": "I am studying for a B.S. in Computer Science and Biochemstry at Bowdoin College. I am expected to graduate in May 2027",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
@@ -16,11 +16,11 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Genetic Engineering" },
+    { "name": "Clinical Genetics" },
+    { "name": "Molecular Genetics" },
+    { "name": "Genetical Code Statistics" },
+    { "name": "Quantum Computing" }
   ],
   "skills": [
     {
