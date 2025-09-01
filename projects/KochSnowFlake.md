@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/KochSnowflake.png
+image: img/Koch_Snowflake.png
 title: "Optimization of Drawing Koch Snowflakes Using Trigonetry & Linear Algebra"
 date: 04-02-2025
 published: true
