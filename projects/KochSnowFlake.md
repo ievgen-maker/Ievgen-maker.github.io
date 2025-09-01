@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/Koch_Snowflake.png
 title: "Optimization of Drawing Koch Snowflakes Using Trigonetry & Linear Algebra"
-date: 04-02-2025
+date: 2025-04-02
 published: true
 labels:
   - Java
