@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/2H_Azirine.png 
 title: "Modeling The Synthesis of Azirine-based Biological Probes Using Density Functional Theory"
-date: 01-22-2025
+date: 2025-01-25
 published: true
 labels:
   - Quntum Chemistry
