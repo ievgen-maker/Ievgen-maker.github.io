@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://raw.githubusercontent.com/ievgen-maker/Ievgen-maker.github.io/refs/heads/main/projects/2H_Azirine.png
+image: [https://raw.githubusercontent.com/ievgen-maker/Ievgen-maker.github.io/refs/heads/main/projects/2H_Azirine.png](https://github.com/ievgen-maker/Ievgen-maker.github.io/blob/main/projects/2H_Azirine.png?raw=true)
 title: "Modeling the Synthesis of Azirine-based Biological Probes Using Density Functional Theory"
 date: 2025
 published: true
