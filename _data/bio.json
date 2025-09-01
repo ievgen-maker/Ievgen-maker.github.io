@@ -6,8 +6,8 @@
     "email": "ievgen@hawaii.edu",
     "phone": "702-934-4688",
     "website": "https://ievgen-maker.github.io",
-    "summary": "I am studying for a B.S. in Computer Science and Biochemstry at Bowdoin College. I am expected to graduate in May 2027",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.S. in Computer Science and Biochemstry at Bowdoin College. I am expected to graduate in May 2027. I wish to go on and pursue a PhD in Human Genetics in order to get certified as a Clinical Biochemical Laboratory Geneticist through ABMGG.",
+    "location": { "address": "", "postalCode": "89118", "city": "Las Vegas", "countryCode": "USA", "region": "Nevada" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
@@ -25,7 +25,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": ["Genetical Laboratory Experience", "Java", "TypeScript", "JavaScript", "CSS", "Python"]
     },
     {
       "name": "Toolsets/OS",
@@ -34,10 +34,10 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Bowdoin College, Brunswick, ME",
+      "area": "Computer Science & Biochemistry (expected Spring, 2027)",
+      "studyType": "B.A.",
+      "startDate": "2024-08-20",
       "endDate": "Present",
       "courses": [
       ]
