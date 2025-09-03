@@ -73,22 +73,6 @@
       ]
     },
     {
-      "institution": "Veterans Tribute Career and Technical Academy (VTCTA)",
-      "area": "EMS Medical Program",
-      "studyType": "High School",
-      "startDate": "2019",
-      "endDate": "2023",
-      "courses": ["EMS medical training", "EMT certification (in progress)"]
-    },
-    {
-      "institution": "Nevada Learning Academy (NVLA)",
-      "area": "AP/Health Sciences",
-      "studyType": "High School Coursework",
-      "startDate": "2018",
-      "endDate": "2023",
-      "courses": ["AP Environmental Science", "Health Science 2", "AP Calculus AB"]
-    },
-    {
       "institution": "College of Southern Nevada (CSN)",
       "area": "Communication",
       "studyType": "Dual Credit",
@@ -97,15 +81,56 @@
       "courses": ["Communication 101"]
     },
     {
+      "institution": "Veterans Tribute Career and Technical Academy (VTCTA)",
+      "area": "EMS Medical Program",
+      "studyType": "High School",
+      "startDate": "2019",
+      "endDate": "2023",
+      "courses": ["EMS medical training", "EMT certification (in progress)"]
+    },
+    {
       "institution": "Nevada State College (NSC)",
       "area": "Mathematics",
       "studyType": "Dual Credit Jumpstart",
       "startDate": "2020",
       "endDate": "2021",
       "courses": ["Math 126", "Math 127H"]
+    },
+    {
+      "institution": "Nevada Learning Academy (NVLA)",
+      "area": "AP/Health Sciences",
+      "studyType": "High School Coursework",
+      "startDate": "2018",
+      "endDate": "2023",
+      "courses": ["AP Environmental Science", "Health Science 2", "AP Calculus AB"]
     }
   ],
   "work": [
+    {
+      "company": "Scott Lab",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2024-06-01",
+      "endDate": "Present",
+      "summary": "Conducted computational and theoretical chemistry research on azirines (Az-Me) to explore covalent probe design.",
+      "highlights": [
+        "Modeled nucleophilic attack mechanisms using Density Functional Theory (DFT)",
+        "Applied Nudged Elastic Band (NEB) and coordinate scans to locate transition states",
+        "Collaborated with Seebald Group (Haverford College) to validate computational predictions with experimental mass spectrometry",
+        "Analyzed reaction pathways, energy barriers, and mechanistic differences across nucleophiles"
+      ]
+    },
+    {
+      "company": "Bowdoin College - Carlon Lab",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2024-01-01",
+      "endDate": "2024-12-01",
+      "summary": "Conducted computational research on population genomics of parrotfish.",
+      "highlights": [
+        "Analyzed 81 parrotfish samples via VCF files",
+        "Applied SVDquartets, ASTRAL, and CASTER for species tree inference",
+        "Developed frameworks for comparative evaluation of phylogenetic software"
+      ]
+    },
     {
       "company": "MGM, New York-New York Hotel",
       "position": "Lifeguard",
@@ -128,21 +153,30 @@
         "Plastering, plumbing, painting, and electrical support",
         "Air conditioning maintenance and general cleaning"
       ]
-    },
-    {
-      "company": "Bowdoin College - Carlon Lab",
-      "position": "Undergraduate Research Assistant",
-      "startDate": "2024-01-01",
-      "endDate": "2024-12-01",
-      "summary": "Conducted computational research on population genomics of parrotfish.",
-      "highlights": [
-        "Analyzed 81 parrotfish samples via VCF files",
-        "Applied SVDquartets, ASTRAL, and CASTER for species tree inference",
-        "Developed frameworks for comparative evaluation of phylogenetic software"
-      ]
     }
   ],
   "volunteer": [
+    {
+      "organization": "Emergency Medical Technician (EMT)",
+      "position": "Volunteer",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Volunteered as an EMT providing medical support and emergency response.",
+      "highlights": [
+        "Responded to medical emergencies",
+        "Gained hands-on patient care experience in pre-hospital settings"
+      ]
+    },
+    {
+      "organization": "Mask Drive During COVID-19 Pandemic",
+      "position": "Initiator",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "Organized and distributed masks during the pandemic.",
+      "highlights": [
+        "Created and distributed 10,000+ masks to community members and gymnasts"
+      ]
+    },
     {
       "organization": "National Honor Society",
       "position": "Volunteer",
@@ -164,42 +198,9 @@
         "700+ hours coaching",
         "Mentored athletes in gymnastics and acrobatics"
       ]
-    },
-    {
-      "organization": "Mask Drive During COVID-19 Pandemic",
-      "position": "Initiator",
-      "startDate": "2020",
-      "endDate": "2021",
-      "summary": "Organized and distributed masks during the pandemic.",
-      "highlights": [
-        "Created and distributed 10,000+ masks to community members and gymnasts"
-      ]
-    },
-    {
-      "organization": "Emergency Medical Technician (EMT)",
-      "position": "Volunteer",
-      "startDate": "2022-01-01",
-      "endDate": "2023-01-01",
-      "summary": "Volunteered as an EMT providing medical support and emergency response.",
-      "highlights": [
-        "Responded to medical emergencies",
-        "Gained hands-on patient care experience in pre-hospital settings"
-      ]
     }
   ],
   "projects": [
-    {
-      "name": "Independent Research — Carlon Lab, Bowdoin College",
-      "startDate": "2024",
-      "endDate": "2024",
-      "summary": "Studied population structure of Pacific parrotfish using computational phylogenetic methods.",
-      "highlights": [
-        "Analyzed 81 parrotfish samples via VCF files",
-        "Applied PAUP+ (SVDquartets), ASTRAL, and CASTER for species tree inference",
-        "Evaluated trade-offs in accuracy, runtime, and usability across programs",
-        "Advanced understanding of parrotfish divergence and population structure"
-      ]
-    },
     {
       "name": "Quantum Chemistry Research on Az-Me",
       "startDate": "2024",
@@ -211,32 +212,44 @@
         "Compared asynchronous vs. concerted bond formation pathways",
         "Collaborated with Seebald Group (Haverford College) to validate computational predictions with experimental mass spectrometry"
       ]
+    },
+    {
+      "name": "Independent Research — Carlon Lab, Bowdoin College",
+      "startDate": "2024",
+      "endDate": "2024",
+      "summary": "Studied population structure of Pacific parrotfish using computational phylogenetic methods.",
+      "highlights": [
+        "Analyzed 81 parrotfish samples via VCF files",
+        "Applied PAUP+ (SVDquartets), ASTRAL, and CASTER for species tree inference",
+        "Evaluated trade-offs in accuracy, runtime, and usability across programs",
+        "Advanced understanding of parrotfish divergence and population structure"
+      ]
     }
   ],
   "extracurricular": [
     {
-      "name": "HOSA (Health Occupations Students of America)",
-      "summary": "Joined to expand knowledge of medicine and support EMS program."
+      "name": "Nevada Boys State Program",
+      "summary": "Engaged in civic leadership and governance simulations at UNR."
     },
     {
       "name": "Gymnastics & Acrobatics",
       "summary": "Competitive gymnast since age 3 in Ukraine and the U.S."
     },
     {
-      "name": "Nevada Boys State Program",
-      "summary": "Engaged in civic leadership and governance simulations at UNR."
+      "name": "HOSA (Health Occupations Students of America)",
+      "summary": "Joined to expand knowledge of medicine and support EMS program."
     }
   ],
   "awards": [
     { "title": "QuestBridge National College Match — Full Ride Scholarship", "date": "2023", "awarder": "QuestBridge", "summary": "Awarded a full-ride scholarship to Bowdoin College." },
-    { "title": "A+ Honor Roll", "date": "2019-2022", "awarder": "VTCTA", "summary": "Earned each year from 9th–11th grade" },
+    { "title": "AP Scholar with Distinction", "date": "2022", "awarder": "College Board", "summary": "Recognition of outstanding AP exam performance" },
+    { "title": "Gymnastics Coach of the Year", "date": "2021", "awarder": "AGC Gymnastics", "summary": "For excellence in youth gymnastics coaching" },
+    { "title": "Acrobatics Coach of the Month", "date": "2021", "awarder": "AGC Gymnastics", "summary": "Monthly recognition for coaching contribution" },
     { "title": "Student of the Month", "date": "2021", "awarder": "VTCTA EMS, Biology, Computer Science", "summary": "Recognized for academic excellence" },
     { "title": "Academic Letter Award", "date": "2020", "awarder": "VTCTA", "summary": "Recognition of consistent high academic achievement" },
     { "title": "Sentinel Service Award", "date": "2019-2022", "awarder": "VTCTA", "summary": "Awarded for service during 9th–11th grade" },
     { "title": "Perfect Attendance", "date": "2019-2022", "awarder": "VTCTA", "summary": "Maintained perfect attendance for 9th–11th grade" },
-    { "title": "AP Scholar with Distinction", "date": "2022", "awarder": "College Board", "summary": "Recognition of outstanding AP exam performance" },
-    { "title": "Gymnastics Coach of the Year", "date": "2021", "awarder": "AGC Gymnastics", "summary": "For excellence in youth gymnastics coaching" },
-    { "title": "Acrobatics Coach of the Month", "date": "2021", "awarder": "AGC Gymnastics", "summary": "Monthly recognition for coaching contribution" }
+    { "title": "A+ Honor Roll", "date": "2019-2022", "awarder": "VTCTA", "summary": "Earned each year from 9th–11th grade" }
   ],
   "references": [
     { "name": "Available upon request" }
