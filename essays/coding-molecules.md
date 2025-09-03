@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: "Coding Molecules: My Journey Into Biochemical Genetics and Computer Science"
-# All dates must be YYYY-MM-DD format!
 date: 2025-08-31
 published: true
 labels:
@@ -12,49 +11,48 @@ labels:
   - Career Goals
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/DNACodeImg.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/dna-codeimg.png">
 
 *The future of medicine may belong to those who can read both molecules and code.*
 
 ## Where It All Started
 
-Back in high school biology, I was amazed that a tiny strand of DNA could explain something as big as eye color—or why someone might get sick. Around the same time, I took a computer science class. At first it was just curiosity, but soon I was hooked. I loved how writing a few lines of code could make a computer do exactly what I wanted.  
+Back in high school biology, I was fascinated that such a small strand of DNA could tell you something as big as eye color—or why one person might get sick. Around the same time, I had a computer science class. At first it was curiosity, and soon I was hooked. I was amazed by how writing a few lines of code could make a computer do exactly what I wanted it to do.  
 
-For a long time I thought these two interests—biology and coding—were completely separate. One lived under a microscope; the other lived on a laptop screen. It wasn’t until college that I began to see how much they could work together.  
+For a long time, I thought these two things would never come together—biology and coding—until I discovered they do! One existed under a microscope; the other lived on a laptop screen. It wasn’t until college that I began to realize how well they could work together.  
 
-## Falling in Love with Biochemistry
+## Getting Hooked on Biochemistry
 
-When I chose biochemistry as my major, I wanted to understand the building blocks of life. Classes on molecules, enzymes, and genetics made me feel like I was learning the secret language of the body. I began to realize that medicine is really just one big puzzle made of molecules.  
+When I chose biochemistry as my major, I wanted to know what made up life. Courses in molecules, enzymes, and genetics helped me feel as if I was learning a secret language of the body. I started to realize that medicine is really one big puzzle made up of molecules.  
 
-But even as I was learning all this, I noticed something: these puzzles were too big to solve by hand. That’s when my computer science background started to feel less like a side interest and more like the missing piece.  
+But as I was learning all of this, I saw a pattern: the puzzles were too big to solve by hand. That’s when I began to see computer science as more than a side interest—it was the missing piece of the puzzle.  
 
 ## Learning to Speak Code
 
-In my coding classes, I started with the basics: loops, recursion, and algorithms. It felt like learning a new language—one that could take a messy problem and break it into clear, step-by-step instructions.  
+In my coding classes, I began with the fundamentals: loops, recursion, and algorithms. It felt like learning a new language—one that could translate a messy problem into step-by-step instructions.  
 
-It didn’t take long to realize that science and medicine produce massive amounts of messy data. A single genetics test can create more information than any person could ever analyze alone. That’s where coding comes in: it gives us the tools to actually understand what the data means.  
+It didn’t take long to realize that science and medicine generate huge amounts of messy data. A single genetics test can provide more information than any individual could ever analyze on their own. That’s where coding comes in: it helps us actually gain insight into what the data means.  
 
-## Research: Bringing the Two Together
+## Research: Making Two Sides Come Together
 
-By my second year in college, I wanted to bring these two worlds together. I joined a research project that studied tiny, ring-shaped molecules called **azirines**, which may be useful for designing new medicines. My role was to use computer models to predict how these molecules would react. Basically, I asked the computer to “play out” possible reactions so we could see what might happen in real life.  
+By my second year of college, I wanted to connect these two worlds. I worked on a research project that investigated small, ring-shaped molecules called **azirines**, which might be useful for new drug design. My job was to run computer models to predict how these molecules would interact. Basically, I asked the computer to “play out” possible reactions and show us what might happen in real life.  
 
-Later, I worked on a project tracing the family tree of parrotfish. We used genetic data to figure out how different species were related and when they split apart. These projects looked totally different on the surface, but they taught me the same lesson: biology and coding aren’t separate—they’re partners.  
+Later, I completed a project mapping the ancestry of parrotfish. We used genetic data to determine how closely related different species were and when they diverged. On the surface these projects were very different, but they all taught me the same lesson: biology and coding aren’t separate—they’re partners.  
 
 ## Seeing the Human Side
 
-Outside of research, I shadowed clinical geneticists. Their job is to take complicated test results and explain them to families in ways that make sense. Watching them reminded me that science is not just about numbers—it’s about people.  
+Outside of research, I shadowed clinical geneticists. Their responsibility is to translate complicated test results into something families can understand. That experience reminded me that science is not just about numbers—it’s about people.  
 
-That idea stuck with me. Whether I’m coding or studying molecules, the real point is to help someone live a healthier life.  
+That idea stuck with me. Whether I’m coding or studying molecules, the reality is that the goal is the same: to help someone live a healthier life.  
 
 ## Why I Want to Combine Both
 
-I can’t imagine studying genetics without computers anymore. And I can’t imagine writing code without aiming it at something meaningful. Putting the two together feels natural.  
+It’s impossible for me to imagine studying genetics without computers. And I can’t imagine writing code without aiming it at something meaningful. Combining the two just feels natural.  
 
-Imagine a program that instantly matches a patient’s test results with thousands of others from around the world. Or a simple picture that shows exactly where a chemical pathway is breaking down in someone’s body. That’s the kind of work I want to do: making tools that doctors can use to give answers faster and more clearly.  
+Imagine a program that instantly compares a patient’s test results with thousands of others around the world. Or a simple picture that shows exactly where a chemical pathway is breaking down in someone’s body. That’s the kind of work I want to do—tools doctors can use to get answers more quickly and more clearly.  
 
 ## Looking Ahead
 
-I know this path will be tough. Becoming a clinical biochemical geneticist means years of study in medicine, chemistry, and lab work. It also means continuing to grow as a programmer. But every step I’ve taken—high school biology, first coding assignments, research in labs, shadowing doctors—has made me more certain.  
+I know this path will be tough. Becoming a clinical biochemical geneticist means years of study in medicine, chemistry, and lab work. It also means continuing to grow as a programmer. But every step I’ve taken—high school biology, first coding projects, lab research, shadowing doctors—has made me more certain.  
 
-My goal is simple: to become someone who understands both molecules and code, and use that knowledge to make genetic medicine better for patients.  
-
+My goal is simple: to become someone who understands both molecules and code, and apply that understanding to improving genetic medicine for patients.  
