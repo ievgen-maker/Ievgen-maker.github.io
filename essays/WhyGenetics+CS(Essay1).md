@@ -1,7 +1,6 @@
----
 layout: essay
 type: essay
-title: "Coding Molecules: My Path Toward Clinical Biochemical Genetics and Computer Science"
+title: "Coding Molecules: My Journey Into Biochemical Genetics and Computer Science"
 # All dates must be YYYY-MM-DD format!
 date: 2025-08-31
 published: true
@@ -14,24 +13,48 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/DNA:CodeImg.png">
 
-*The future of medicine will belong to those who can read both molecules and code.*
+*The future of medicine may belong to those who can read both molecules and code.*
 
-## A Vision For Blending Biology & Computation
+## Where It All Started
 
-From the moment I was introduced to biochemistry, I knew I wanted to push deeper into the molecular puzzles that define human health. Yet, as my coursework in computer science unfolded, I also discovered the power of algorithms and software to make sense of complexity at a scale far beyond what the human brain can process. These two passions—biochemical genetics and software engineering—felt like separate worlds at first, but I have come to see them as deeply complementary. My goal is to become a **clinical biochemical geneticist** and fuse that role with my training in computer science to develop new ways of diagnosing and managing genetic diseases.  
+Back in high school biology, I was amazed that a tiny strand of DNA could explain something as big as eye color—or why someone might get sick. Around the same time, I took a computer science class. At first it was just curiosity, but soon I was hooked. I loved how writing a few lines of code could make a computer do exactly what I wanted.  
 
-## What A Clinical Biochemical Geneticist Does
+For a long time I thought these two interests—biology and coding—were completely separate. One lived under a microscope; the other lived on a laptop screen. It wasn’t until college that I began to see how much they could work together.  
 
-A clinical biochemical geneticist is not just a scientist in a lab coat. They are highly trained professionals (M.D., D.O., or Ph.D.) who direct and interpret biochemical analyses to diagnose and treat genetic disorders. They supervise diagnostic labs, ensure compliance with regulatory standards, and maintain rigorous quality control. They also consult with clinicians and patients, translating raw biochemical data into actionable medical insights. What excites me about this role is its **intersection of research and human care**: the ability to apply advanced biochemical techniques while keeping the patient’s story at the center of the work.  
+## Falling in Love with Biochemistry
 
-## Where Computer Science Fits In
+When I chose biochemistry as my major, I wanted to understand the building blocks of life. Classes on molecules, enzymes, and genetics made me feel like I was learning the secret language of the body. I began to realize that medicine is really just one big puzzle made of molecules.  
 
-The future of genetics is inseparable from computation. Biochemical labs generate massive amounts of data—enzymatic assays, metabolomic profiles, sequencing reads—that can only be interpreted efficiently with computational tools. As a student of computer science, I want to build software that streamlines diagnostic pipelines, integrates biochemical and genomic data, and leverages machine learning to uncover patterns invisible to manual analysis. Just as importantly, I want to ensure that these tools are not black boxes: they should communicate results clearly to clinicians and patients, echoing the geneticist’s responsibility for effective communication.  
+But even as I was learning all this, I noticed something: these puzzles were too big to solve by hand. That’s when my computer science background started to feel less like a side interest and more like the missing piece.  
 
-## Why I Want To Combine These Fields
+## Learning to Speak Code
 
-To me, pursuing biochemical genetics without computation would be like trying to read a book with half the pages missing. Conversely, applying computer science without grounding it in biology risks building elegant algorithms with little real-world impact. By combining both, I hope to **push the field toward faster, more accurate, and more accessible genetic diagnostics**. Imagine software that instantly cross-references a patient’s biochemical assay results with global databases, or visualization tools that allow clinicians to “see” a metabolic pathway breaking down in real time. This is where I want to contribute: at the interface of computation and medicine, where innovation directly improves human lives.  
+In my coding classes, I started with the basics: loops, recursion, and algorithms. It felt like learning a new language—one that could take a messy problem and break it into clear, step-by-step instructions.  
 
-## Moving Forward
+It didn’t take long to realize that science and medicine produce massive amounts of messy data. A single genetics test can create more information than any person could ever analyze alone. That’s where coding comes in: it gives us the tools to actually understand what the data means.  
 
-The path toward this career is challenging. It will require doctoral-level training in genetics and biochemistry, rigorous immersion in clinical lab operations, and continued growth in software engineering. But the challenge excites me. The technical complexity, the human impact, and the potential for innovation make this intersection a place where I can see myself not just working, but thriving. My vision is clear: to become a **clinical biochemical geneticist who codes**, bridging two disciplines to shape the future of genetic medicine.  
+## Research: Bringing the Two Together
+
+By my second year in college, I wanted to bring these two worlds together. I joined a research project that studied tiny, ring-shaped molecules called **azirines**, which may be useful for designing new medicines. My role was to use computer models to predict how these molecules would react. Basically, I asked the computer to “play out” possible reactions so we could see what might happen in real life.  
+
+Later, I worked on a project tracing the family tree of parrotfish. We used genetic data to figure out how different species were related and when they split apart. These projects looked totally different on the surface, but they taught me the same lesson: biology and coding aren’t separate—they’re partners.  
+
+## Seeing the Human Side
+
+Outside of research, I shadowed clinical geneticists. Their job is to take complicated test results and explain them to families in ways that make sense. Watching them reminded me that science is not just about numbers—it’s about people.  
+
+That idea stuck with me. Whether I’m coding or studying molecules, the real point is to help someone live a healthier life.  
+
+## Why I Want to Combine Both
+
+I can’t imagine studying genetics without computers anymore. And I can’t imagine writing code without aiming it at something meaningful. Putting the two together feels natural.  
+
+Imagine a program that instantly matches a patient’s test results with thousands of others from around the world. Or a simple picture that shows exactly where a chemical pathway is breaking down in someone’s body. That’s the kind of work I want to do: making tools that doctors can use to give answers faster and more clearly.  
+
+## Looking Ahead
+
+I know this path will be tough. Becoming a clinical biochemical geneticist means years of study in medicine, chemistry, and lab work. It also means continuing to grow as a programmer. But every step I’ve taken—high school biology, first coding assignments, research in labs, shadowing doctors—has made me more certain.  
+
+My goal is simple: to become someone who understands both molecules and code, and use that knowledge to make genetic medicine better for patients.  
+
+---
