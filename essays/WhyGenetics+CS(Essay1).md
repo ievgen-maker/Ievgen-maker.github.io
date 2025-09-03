@@ -20,7 +20,7 @@ labels:
 
 From the moment I was introduced to biochemistry, I knew I wanted to push deeper into the molecular puzzles that define human health. Yet, as my coursework in computer science unfolded, I also discovered the power of algorithms and software to make sense of complexity at a scale far beyond what the human brain can process. These two passions—biochemical genetics and software engineering—felt like separate worlds at first, but I have come to see them as deeply complementary. My goal is to become a **clinical biochemical geneticist** and fuse that role with my training in computer science to develop new ways of diagnosing and managing genetic diseases.  
 
-## What A Alinical Biochemical Geneticist Does
+## What A Clinical Biochemical Geneticist Does
 
 A clinical biochemical geneticist is not just a scientist in a lab coat. They are highly trained professionals (M.D., D.O., or Ph.D.) who direct and interpret biochemical analyses to diagnose and treat genetic disorders. They supervise diagnostic labs, ensure compliance with regulatory standards, and maintain rigorous quality control. They also consult with clinicians and patients, translating raw biochemical data into actionable medical insights. What excites me about this role is its **intersection of research and human care**: the ability to apply advanced biochemical techniques while keeping the patient’s story at the center of the work.  
 
