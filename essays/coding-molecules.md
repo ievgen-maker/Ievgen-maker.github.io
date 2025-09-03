@@ -1,3 +1,4 @@
+---
 layout: essay
 type: essay
 title: "Coding Molecules: My Journey Into Biochemical Genetics and Computer Science"
