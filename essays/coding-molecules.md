@@ -11,7 +11,7 @@ labels:
   - Career Goals
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/dna-codeimg.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/DNACodeImg.png">
 
 *The future of medicine may belong to those who can read both molecules and code.*
 
