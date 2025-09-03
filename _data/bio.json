@@ -41,7 +41,7 @@
     },
     {
       "name": "Programming & Tools",
-      "keywords": ["Python", "Java", "TypeScript", "JavaScript", "CSS", "Git/GitHub", "Linux/Ubuntu", "MacOS", "HPC (SLURM/ORCA)"]
+      "keywords": ["Python", "R", "Java", "TypeScript", "JavaScript", "CSS", "Git/GitHub", "Linux/Ubuntu", "MacOS", "HPC (SLURM/ORCA)", "Vim Edit"]
     }
   ],
   "education": [
@@ -49,7 +49,7 @@
       "institution": "Bowdoin College, Brunswick, ME",
       "area": "Computer Science & Biochemistry",
       "studyType": "B.A.",
-      "startDate": "2024-08-20",
+      "startDate": "2023-08-20",
       "endDate": "Present",
       "courses": [
         "CHEM 1051 - How the World Works (CR)",
@@ -81,14 +81,6 @@
       "courses": ["Communication 101"]
     },
     {
-      "institution": "Veterans Tribute Career and Technical Academy (VTCTA)",
-      "area": "EMS Medical Program",
-      "studyType": "High School",
-      "startDate": "2019",
-      "endDate": "2023",
-      "courses": ["EMS medical training", "EMT certification (in progress)"]
-    },
-    {
       "institution": "Nevada State College (NSC)",
       "area": "Mathematics",
       "studyType": "Dual Credit Jumpstart",
@@ -98,11 +90,18 @@
     },
     {
       "institution": "Nevada Learning Academy (NVLA)",
-      "area": "AP/Health Sciences",
+      "area": "Health Sciences",
       "studyType": "High School Coursework",
       "startDate": "2018",
       "endDate": "2023",
       "courses": ["AP Environmental Science", "Health Science 2", "AP Calculus AB"]
+    },{
+      "institution": "Veterans Tribute Career and Technical Academy (VTCTA)",
+      "area": "EMS Medical Program",
+      "studyType": "High School",
+      "startDate": "2019",
+      "endDate": "2023",
+      "courses": ["EMS medical training", "EMT certification", "Valedectorian Graduate"]
     }
   ],
   "work": [
@@ -124,7 +123,7 @@
       "position": "Undergraduate Research Assistant",
       "startDate": "2024-01-01",
       "endDate": "2024-12-01",
-      "summary": "Conducted computational research on population genomics of parrotfish.",
+      "summary": "Conducted computational research and analysis on population genomics of parrotfish.",
       "highlights": [
         "Analyzed 81 parrotfish samples via VCF files",
         "Applied SVDquartets, ASTRAL, and CASTER for species tree inference",
@@ -178,14 +177,13 @@
       ]
     },
     {
-      "organization": "National Honor Society",
+      "organization": "U4U Legal Aid",
       "position": "Volunteer",
-      "startDate": "2020",
+      "startDate": "2022",
       "endDate": "2023",
-      "summary": "Supported local community through service projects.",
+      "summary": "Supported foreign community of fellow Ukrainians through the process of finding and signing relocation documents for immigration.",
       "highlights": [
-        "Volunteered in shelters",
-        "Organized assistance in hospitals and retirement homes"
+        "Connected Multiple Ukrainian Families With Host Families"
       ]
     },
     {
@@ -228,12 +226,12 @@
   ],
   "extracurricular": [
     {
-      "name": "Nevada Boys State Program",
-      "summary": "Engaged in civic leadership and governance simulations at UNR."
+      "name": "Emergency Medical Technician Club At Bowdoin College",
+      "summary": "Engaged in civic community ambulance programming."
     },
     {
-      "name": "Gymnastics & Acrobatics",
-      "summary": "Competitive gymnast since age 3 in Ukraine and the U.S."
+      "name": "Fencing",
+      "summary": "Recreatioanlly Fence At Local College"
     },
     {
       "name": "HOSA (Health Occupations Students of America)",
@@ -242,14 +240,10 @@
   ],
   "awards": [
     { "title": "QuestBridge National College Match — Full Ride Scholarship", "date": "2023", "awarder": "QuestBridge", "summary": "Awarded a full-ride scholarship to Bowdoin College." },
-    { "title": "AP Scholar with Distinction", "date": "2022", "awarder": "College Board", "summary": "Recognition of outstanding AP exam performance" },
+    { "title": "Kufe Family Research Fellowship", "date": "2025", "awarder": "Bowdoin College", "summary": "Sponsored grant awarded to pursue further research in the summer full time in Computational Quntum Chemistry by expanding on an independent study." },
     { "title": "Gymnastics Coach of the Year", "date": "2021", "awarder": "AGC Gymnastics", "summary": "For excellence in youth gymnastics coaching" },
     { "title": "Acrobatics Coach of the Month", "date": "2021", "awarder": "AGC Gymnastics", "summary": "Monthly recognition for coaching contribution" },
-    { "title": "Student of the Month", "date": "2021", "awarder": "VTCTA EMS, Biology, Computer Science", "summary": "Recognized for academic excellence" },
-    { "title": "Academic Letter Award", "date": "2020", "awarder": "VTCTA", "summary": "Recognition of consistent high academic achievement" },
-    { "title": "Sentinel Service Award", "date": "2019-2022", "awarder": "VTCTA", "summary": "Awarded for service during 9th–11th grade" },
-    { "title": "Perfect Attendance", "date": "2019-2022", "awarder": "VTCTA", "summary": "Maintained perfect attendance for 9th–11th grade" },
-    { "title": "A+ Honor Roll", "date": "2019-2022", "awarder": "VTCTA", "summary": "Earned each year from 9th–11th grade" }
+    { "title": "Perfect Attendance", "date": "2019-2023", "awarder": "VTCTA", "summary": "Maintained perfect attendance for 9th–12th grade" }
   ],
   "references": [
     { "name": "Available upon request" }
