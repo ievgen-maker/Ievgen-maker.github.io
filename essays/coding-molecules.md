@@ -57,4 +57,3 @@ I know this path will be tough. Becoming a clinical biochemical geneticist means
 
 My goal is simple: to become someone who understands both molecules and code, and use that knowledge to make genetic medicine better for patients.  
 
----
