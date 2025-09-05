@@ -23,6 +23,8 @@ My role was to design, implement, and test the full program from scratch. I stru
 
 Through this experience, I gained a deeper appreciation for recursion as both a programming tool and a mathematical concept. I learned how to manage exponential growth in recursive algorithms by balancing clarity with computational efficiency, and I practiced using Java’s Swing and 2D graphics libraries to render recursive structures. More broadly, this project taught me how mathematical theory—like fractals and recursive formulas—can be translated into clear, efficient, and visually engaging code. It reinforced my skills in modular design, recursion, and computational geometry, and showed me how abstract mathematics can become tangible through programming.
 
-Source Code Can Be Found At: https://github.com/ievgen-maker/Ievgen-maker.github.io/tree/main/projects#:~:text=KochTriangleCode.md 
+The full source code can be found here:  
+[**KochTriangleCode.md on GitHub**](https://github.com/ievgen-maker/Ievgen-maker.github.io/blob/main/KochTriangleCode.md)
+
 
 
