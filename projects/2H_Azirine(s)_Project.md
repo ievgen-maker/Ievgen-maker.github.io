@@ -6,7 +6,7 @@ title: "Modeling The Synthesis of Azirine-based Biological Probes Using Density 
 date: 2025-01-25
 published: true
 labels:
-  - Quntum Chemistry
+  - Quantum Chemistry
   - Computational Chemistry
   - Computation & Modeling of New Chemical Syntheses
 summary: "I calculated the relative chemical energies (Gibbs-Free Energy, Enthalpy, Electronic) of multiple new synthetic pathways that create biological probes from 2H-Azirine Reactant to better support experimental resuls obtained by the Seebald Lab."
@@ -21,4 +21,16 @@ This project explored the reactivity of azirines, a class of three-membered nitr
 My role was to lead the computational modeling and analysis. I was responsible for setting up DFT calculations, analyzing the potential energy surface, and identifying transition states for the key bond-forming and bond-breaking steps. This involved applying specialized techniques such as vibrational frequency analysis to confirm whether structures were stable intermediates or true transition states, and using the Nudged Elastic Band (NEB) method to trace the minimum energy path between reactants and products. I also ran energy scans by systematically varying distances between reactive atoms to visualize energy changes along the reaction coordinate. I independently located and verified multiple transition states, compared asynchronous and concerted bond-forming pathways, and related these computational results to the experimental data.
 
 From this experience, I gained a much deeper understanding of both computational chemistry methods and their connection to real-world chemical biology. I learned how to interpret negative vibrational frequencies to validate transition states, how to troubleshoot the sensitivity of NEB pathways to starting geometries, and how to construct reaction coordinate diagrams that quantify competing mechanisms. More broadly, I developed the ability to connect computational predictions with experimental observations—using energy barriers and structural changes to explain why certain products are favored. This project taught me how to integrate quantum chemistry, mechanistic reasoning, and biological relevance, and it showed me the value of computational chemistry as a tool for guiding experimental design and validating hypotheses in chemical biology.
+
+<!-- Bottom GIF (click to open full size) -->
+<div class="text-center my-5">
+  <a href="/img/Orca_Frequency.gif" target="_blank" rel="noopener">
+    <img src="/img/Orca_Frequency.gif"
+         alt="ORCA vibrational frequency animation (Az-Me) of a transiotion state"
+         style="max-width: 100%; width: 720px; height: auto; border-radius: 12px;">
+  </a>
+  <p class="mt-2"><em>Click the animation to open the full-size GIF.</em></p>
+  <p class="small">Direct link: <a href="/img/Orca_Frequency.gif">/img/Orca_Frequency.gif</a></p>
+</div>
+
 
