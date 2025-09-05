@@ -6,7 +6,7 @@
     "email": "ievgen@hawaii.edu",
     "phone": "702-934-4688",
     "website": "https://ievgen-maker.github.io",
-    "summary": "I am pursuing a B.A. in Computer Science and Biochemistry at Bowdoin College (expected graduation 2027). I plan to continue into a Ph.D. in Human Genetics, aiming for ABMGG certification as a Clinical Biochemical Laboratory Geneticist. My experiences span computational phylogenetics, quantum chemistry, and translational biomedical science, alongside leadership, teaching, and community service.",
+    "summary": "I am pursuing a B.A. in Computer Science and Biochemistry at Bowdoin College and I'm expected to graduate in May 2027. I plan to continue into a Ph.D. in Human Genetics, aiming for ABMGG certification as a Clinical Biochemical Laboratory Geneticist.",
     "location": { 
       "address": "", 
       "postalCode": "89118", 
@@ -15,10 +15,8 @@
       "region": "Nevada" 
     },
     "profiles": [
-      { "network": "github", "username": "ievgen-maker", "url": "https://github.com/ievgen-maker" },
-      { "network": "linkedin", "username": "ievgenborovenskyi", "url": "https://linkedin.com/in/ievgenborovenskyi" },
-      { "network": "twitter", "username": "ievgen_b", "url": "https://twitter.com/ievgen_b" },
-      { "network": "instagram", "username": "ievgen.b", "url": "https://instagram.com/ievgen.b" }
+      { "network": "github", "username": "ievgen-maker", "url": "https://github.com/ievgen-maker/Ievgen-maker.github.io" },
+      { "network": "linkedin", "username": "ievgenborovenskyi", "url": "https://www.linkedin.com/in/ievgen-borovenskyi-42bb05380/" }
     ]
   },
   "interests": [
