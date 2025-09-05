@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/parrotFish.png 
+image: img/ParrotFish_CarlonLab.png
 title: "Modeling The Hybridization of Pacific Parrot Fish Through Comprassion of Several Phylogetic Softwares"
 date: 2025-01-25
 published: true
