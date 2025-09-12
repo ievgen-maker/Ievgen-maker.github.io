@@ -29,7 +29,7 @@ All that said, TypeScript isn’t hard to pick up; it just asks for time to accl
 
 Having my first few assessments and problems requiring the manipulations of data structures I can say that Typescript is ok. However I am obviously lacking in Typescript experience and it would be unscientific of me to make any strong statements when I am mentally pulling my opinions from a limited sample size of problems solved using Typescript. Having some built in methods that I am familiar with throws off my planning aspect of how I go about solutions for problems and my feelings towards Typescript in general. However I am really sure that during team collaboration the specifying of data type of function returns and variables is a huge passive boost towards great coding practices in general. Since due to this requirement of Typescript coding larger projects is easier since you can follow code easier. Since communicating code can be challenging. 
 
-Simply summurized, there Typescript will be a place in my heart for it...but currently it is tough love. 
+Simply said, there will be a place in my heart for TypeScript...but currently it is tough love. 
 
 
 
