@@ -75,8 +75,7 @@ Because the question setup was solid, the answers explained not just *what* but 
 
 This is the **red pill**: one precise, reproducible question produced precise, reusable lessons for everyone.  
 
-By contrast, consider the vague post titled  
-**[Why is my LLM generating repetitive outputs? How can I improve diversity?]([https://stackoverflow.com/questions/ask](https://stackoverflow.com/questions/79761715/why-is-my-llm-generating-repetitive-outputs-how-can-i-improve-diversity))**  
+By contrast, consider the vague post titled Why is my LLM generating repetitive outputs? How can I improve diversity?
 
 At first glance, it looks like a good question — the title sounds clear — but the body immediately stumbles. The author pastes a description of their `generate()` parameters (`do_sample=True`, `temperature=1.0`, `top_k=50`), but stops there. They never share the actual code they used, a reproducible example, or any of the model’s outputs. Instead, the post is just a wall of text saying “my output repeats phrases like a loop.”  
 
@@ -88,7 +87,7 @@ Readers are left guessing:
 
 Because there is no minimal reproducible example, no before/after outputs, and no baseline for comparison, responders can’t do much beyond generic advice (“try changing `repetition_penalty`” or “lower your temperature”).  
 
-This is the **blue pill**: a seemingly well-titled question that collapses into vague problem descriptions and lacks actionable context. The thread risks stalling out or attracting downvotes — which is exactly what happened, with a negative score and no accepted solution. For the full question described you can take a look at the image below.
+This is the **blue pill**: a seemingly well-titled question that collapses into vague problem descriptions and lacks actionable context. The thread risks stalling out or attracting downvotes — which is exactly what happened, with a negative score and no accepted solution. For the full question described you can take a look at the image below, no link is provided since the page was removed from StackOverflow.  
 
 
 <img width="800px" class="rounded" src="../img/badQuestion.png">
