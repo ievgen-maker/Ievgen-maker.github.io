@@ -123,7 +123,7 @@
       "endDate": "2024-12-01",
       "summary": "Conducted computational research and analysis on population genomics of parrotfish.",
       "highlights": [
-        "Analyzed 81 parrotfish samples via VCF files",
+        "Analyzed diverse parrotfish samples via VCF files",
         "Applied SVDquartets, ASTRAL, and CASTER for species tree inference",
         "Developed frameworks for comparative evaluation of phylogenetic software"
       ]
@@ -131,8 +131,8 @@
     {
       "company": "MGM, New York-New York Hotel",
       "position": "Lifeguard",
-      "startDate": "2022-03-01",
-      "endDate": "Present",
+      "startDate": "2022-12-01",
+      "endDate": "2023-08-01",
       "summary": "Provided lifeguard services including CPR, resuscitation, and first aid response in a high-volume public environment.",
       "highlights": [
         "Trained in emergency medical response (CPR, resuscitation, first aid)",
@@ -206,7 +206,7 @@
         "Modeled ethanol, ethanethiol, and acetic acid nucleophiles with Density Functional Theory",
         "Identified transition states using Nudged Elastic Band (NEB) and reaction scans",
         "Compared asynchronous vs. concerted bond formation pathways",
-        "Collaborated with Seebald Group (Haverford College) to validate computational predictions with experimental mass spectrometry"
+        "Collaborated with Seebald Group (Haverford College) to validate computational predictions with experimental mass spectrometry and in-lab reaction data."
       ]
     },
     {
@@ -237,11 +237,10 @@
     }
   ],
   "awards": [
-    { "title": "QuestBridge National College Match — Full Ride Scholarship", "date": "2023", "awarder": "QuestBridge", "summary": "Awarded a full-ride scholarship to Bowdoin College." },
     { "title": "Kufe Family Research Fellowship", "date": "2025", "awarder": "Bowdoin College", "summary": "Sponsored grant awarded to pursue further research in the summer full time in Computational Quntum Chemistry by expanding on an independent study." },
+    { "title": "QuestBridge National College Match — Full Ride Scholarship", "date": "2023", "awarder": "QuestBridge", "summary": "Awarded a full-ride scholarship to Bowdoin College." },
     { "title": "Gymnastics Coach of the Year", "date": "2021", "awarder": "AGC Gymnastics", "summary": "For excellence in youth gymnastics coaching" },
-    { "title": "Acrobatics Coach of the Month", "date": "2021", "awarder": "AGC Gymnastics", "summary": "Monthly recognition for coaching contribution" },
-    { "title": "Perfect Attendance", "date": "2019-2023", "awarder": "VTCTA", "summary": "Maintained perfect attendance for 9th–12th grade" }
+    { "title": "Acrobatics Coach of the Month", "date": "2021", "awarder": "AGC Gymnastics", "summary": "Monthly recognition for coaching contribution" }
   ],
   "references": [
     { "name": "Available upon request" }
