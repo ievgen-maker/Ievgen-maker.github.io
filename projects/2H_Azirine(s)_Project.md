@@ -12,7 +12,7 @@ labels:
 summary: "I calculated the relative chemical energies (Gibbs-Free Energy, Enthalpy, Electronic) of multiple new synthetic pathways that create biological probes from 2H-Azirine Reactant to better support experimental resuls obtained by the Seebald Lab."
 ---
 
-<img src="../img/Orca.png" style="width:200px;height:200px;object-fit:cover;">
+<img src="../img/Orca.png" width="200" height="200" style="object-fit:cover;float:right;margin-left:1rem;">
 
 
 
