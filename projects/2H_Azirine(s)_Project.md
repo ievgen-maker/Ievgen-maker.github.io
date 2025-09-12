@@ -30,7 +30,7 @@ From this experience, I gained a much deeper understanding of both computational
          alt="ORCA vibrational frequency animation (Az-Me) of a transiotion state"
          style="max-width: 100%; width: 720px; height: auto; border-radius: 12px;">
   </a>
-  <p class="mt-2"><em>ORCA vibrational frequency animation (Az-Me) of a transiotion state.</em></p>
+  <p class="mt-2"><em>ORCA vibrational frequency animation (Az-Me) of a transition state.</em></p>
   <p class="small">Direct link: <a href="/img/Orca_Frequency.gif">/img/Orca_Frequency.gif</a></p>
 </div>
 
