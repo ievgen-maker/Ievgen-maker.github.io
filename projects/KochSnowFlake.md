@@ -12,7 +12,8 @@ labels:
 summary: "This Java program uses recursion and Swing graphics to draw a Koch Snowflake fractal, collect and print its points, and compute the total perimeter length at a given recursion depth."
 ---
 
-<img src="../img/KochSnowFlake(projectsImbed).png" style="width:25%;" alt="Koch Snowflake">
+
+<img src="../img/KochSnowFlake(projectsImbed).png" style="width:200px;height:200px;object-fit:cover;">
 
 
 # Koch Snowflake Fractal in Java
