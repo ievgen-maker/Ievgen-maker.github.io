@@ -92,7 +92,7 @@ Because there is no minimal reproducible example, no before/after outputs, and n
 This is the **blue pill**: a seemingly well-titled question that collapses into vague problem descriptions and lacks actionable context. The thread risks stalling out or attracting downvotes — which is exactly what happened, with a negative score and no accepted solution.
 
 
-<img width="200px" class="rounded" src="../img/badQuestion.png">
+<img width="800px" class="rounded" src="../img/badQuestion.png">
 
 
 ## TL;DR: Ask Better, Suffer Less
