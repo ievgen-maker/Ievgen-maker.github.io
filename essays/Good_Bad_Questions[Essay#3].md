@@ -89,7 +89,7 @@ Readers are left guessing:
 
 Because there is no minimal reproducible example, no before/after outputs, and no baseline for comparison, responders can’t do much beyond generic advice (“try changing `repetition_penalty`” or “lower your temperature”).  
 
-This is the **blue pill**: a seemingly well-titled question that collapses into vague problem descriptions and lacks actionable context. The thread risks stalling out or attracting downvotes — which is exactly what happened, with a negative score and no accepted solution.
+This is the **blue pill**: a seemingly well-titled question that collapses into vague problem descriptions and lacks actionable context. The thread risks stalling out or attracting downvotes — which is exactly what happened, with a negative score and no accepted solution. For the full question described you can take a look at the image below.
 
 
 <img width="800px" class="rounded" src="../img/badQuestion.png">
