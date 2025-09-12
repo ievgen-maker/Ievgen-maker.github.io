@@ -11,7 +11,8 @@ labels:
   - Writing Skills
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/Good_Bad_Questions.png">
+<img src="../img/Good_Bad_Questions.png" style="width:200px;height:200px;object-fit:cover;">
+
 
 *Good questions earn good answers. Communication is key.*
 
