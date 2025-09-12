@@ -10,8 +10,7 @@ labels:
   - Computer Science
   - Writing Skills
 ---
-
-<img src="../img/Good_Bad_Questions.png" style="width:200px;height:200px;object-fit:cover;">
+<img src="../img/Good_Bad_Questions.png" width="200" height="200" style="object-fit:cover;float:left;margin-right:1rem;">
 
 
 *Good questions earn good answers. Communication is key.*
