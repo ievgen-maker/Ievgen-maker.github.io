@@ -12,10 +12,10 @@ labels:
 summary: "I calculated the relative chemical energies (Gibbs-Free Energy, Enthalpy, Electronic) of multiple new synthetic pathways that create biological probes from 2H-Azirine Reactant to better support experimental resuls obtained by the Seebald Lab."
 ---
 
-<img src="../img/Orca.png" 
-     width="200px" 
-     height = "200px"
-     class="img-thumbnail float-start me-3 mb-3">
+<img src="../img/Orca.png" style="width:200px;height:200px;object-fit:cover;">
+
+
+
 
 This project explored the reactivity of azirines, a class of three-membered nitrogen rings that are highly strained and therefore highly reactive. Their ability to relieve ring strain by forming more stable structures makes them attractive candidates for covalent probes—molecules that can bind to proteins and help track their activity, study interactions, and guide drug development. In particular, we studied a model compound called Az-Me to understand how it reacts with common nucleophiles such as ethanol, ethanethiol, and acetic acid. By applying Density Functional Theory (DFT), we sought to compare the relative energies of different reaction pathways and identify which mechanisms were most plausible, in support of experimental work being carried out by our collaborators in the Seebald Group at Haverford College.
 
