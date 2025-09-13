@@ -13,7 +13,7 @@ labels:
 <img src="../img/Good_Bad_Questions.png" width="200" height="200" style="object-fit:cover;float:left;margin-right:1rem;">
 
 
-*Good questions earn good answers. Communication is key.*
+*Good questions earn good answers.*
 
 ## Good Questions Get Good Answers
 
