@@ -32,7 +32,7 @@ We can look at *How To Ask Questions The Smart Way* by Eric Steven Raymond (ESR)
 Take the perfect “smart” question example:  
 **[Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)**  
 
-The first impression is ideal: precise in its title, clearly framing the curiosity. The author provides context: C++ environment and Java, short code snippets with comments, and a reproducible test.  
+The first impression is pretty ideal: precise in its title, clearly framing the curiosity. The author provides context: C++ environment and Java, short code snippets with comments, and a reproducible test.  
 
 In fact, here’s the exact C++ code that demonstrated the ~6x speedup:
 
