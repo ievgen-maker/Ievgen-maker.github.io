@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Pasta Code Only a Mother Could Love"
-date: 2025-25-25
+date: 2025-09-25
 published: true
 labels:
   - Coding Standards
@@ -47,5 +47,6 @@ Clean code is a gift. It doesn’t take extra time once you’re in the habit, a
 **Final verdict:** Coding standards are cool. They deserve their place in the workflow, not as a burden but as a quiet blessing—like the repo you pray over before pushing to main.  
 
 ### References
-- Varbolean, C. (2025). *The Mars Climate Orbiter Mishap: Lessons in Metrication.*  
+
+Varbolean, C. (2025). *The Mars Climate Orbiter Mishap: Lessons in Metrication.*  
   *Journal of Aerospace Failures*, 12(3), 45–52. 
