@@ -1,108 +1,56 @@
 ---
 layout: essay
 type: essay
-title: "It’s Not You, It’s Your Question — I Think We Should See Other Forums"
-date: 2025-09-10
+title: "Pasta Code Only a Mother Could Love"
+date: 2025-09-25
 published: true
 labels:
-  - Communication
-  - Forums
-  - Computer Science
-  - Writing Skills
+  - Coding Standards
+  - Software Engineering
+  - Clean Code
 ---
-<img src="../img/Good_Bad_Questions.png" width="200" height="200" style="object-fit:cover;float:left;margin-right:1rem;">
 
+<img src="../img/PastaMomLove.png" width="220" height="220" style="object-fit:contain;float:left;margin-right:1rem;margin-bottom:0.5rem;">
 
-*Good questions earn good answers.*
+*Even spaghetti can be beautiful—with enough love (and ESLint).*
 
-## Good Questions Get Good Answers
+## Pasta Code Only a Mother Could Love
 
-Communication is key.  
+I like to think of coding standards the same way we think of unit standardization in science.  
+They genuinely force me to write neater code, which is a blessing for both code reviewers and the curious onlooker peeking into my repo.  
 
-We all heard it, we all hear it, and will continue hearing it from the people that surround us on a daily basis—it’s inarguable as much as it is inescapable. Communication spans both personal and professional lives, and in both spaces, strong communication is what shapes our understanding of everything and everyone around us. From casual personal conversations to formal work presentations to moments when we need help, communication carries us through. Much of life is shaped by asking for directions and seeking help from others. Each encounter provides not only solutions but also insights that enhance our ability to navigate future challenges.  
+This comparison comes from one of history’s most expensive “oopsies.” The most famous? The **Mars Climate Orbiter**—a ~$327.6 million loss because NASA’s navigation team expected thruster data in Newton-seconds, but Lockheed Martin’s software sent pound-seconds instead (Varbolean, 2025).  
 
-But what exactly makes a good question to ask when you need support?  
+The result: a wrong trajectory, atmospheric entry at the wrong angle, and a spacecraft turned space-toast. Money, time, and teamwork—all gone in seconds.  
 
-## Natural Selection of Questions: Only the Strong Survive
+Sure, forgetting to name a variable properly won’t burn up $300 million worth of equipment—but it will still burn time, patience, and goodwill.  
 
-We can look at *How To Ask Questions The Smart Way* by Eric Steven Raymond (ESR) as part of his essay advocating effective communication for Software Engineers, Computer Scientists, and others in technology. However, his arguments apply far beyond tech—they extend to any field and even our personal lives. Bad questions, Raymond explains, are the ones that show little effort: “My {program, configuration, SQL statement} doesn’t work” or “Why is this broken?” With no context or detail, these kinds of questions force others to play “Twenty Questions.” As Raymond notes: “I have better things to do.” Interestingly, a question can be detailed but still fail if it’s posted in the wrong forum. A misplaced question is wasted effort.  In contrast, good questions demonstrate preparation and respect. They show that the asker has tried to solve the problem, include specifics about the environment, and describe the symptoms clearly: “The code from project foo doesn’t compile under Nulix version 6.2. I’ve read the FAQ, but it doesn’t have anything in it about Nulix-related problems. Here’s a transcript of my compilation attempt; is it something I did?” Rather than demanding an answer, this kind of question, as Raymond puts it, *“gives people something to chew on”* and makes it easy for others to engage. Good questions don’t just ask for help—they contribute to the community.  
+## How Clean Code Saves Time, Sanity, and Tylenol
 
-## Red Pill: Answers. Blue Pill: Awkward Silence.
+Imagine a whole team building a project with no shared rules: no consistent variable names, no comments, no structure—maybe even mixing languages. The project might technically “work,” but the next poor soul trying to patch or optimize it will end up popping Tylenol and rage-quitting.  
 
-Take the perfect “smart” question example:  
-**[Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)**  
+That’s why I appreciate tools like ESLint. They nudge you into a baseline of cleanliness without stripping away personality. Coding standards aren’t meant to kill creativity—they’re meant to make code readable and maintainable for future you (and everyone else).  
 
-The first impression is pretty ideal: precise in its title, clearly framing the curiosity. The author provides context: C++ environment and Java, short code snippets with comments, and a reproducible test.  
+## Telepathy Through Standardization
 
-In fact, here’s the exact C++ code that demonstrated the ~6x speedup:
+Coding is like opening a window into how someone organizes ideas in their head.  
+Standardization bridges those mental worlds.  
 
-```cpp
-#include <algorithm>
-#include <ctime>
-#include <iostream>
+When I’ve collaborated on class projects, I’ve swung between two extremes:  
+“**What is happening here????**” and “**Ah, I see you—this is beautiful.**”  
 
-int main()
-{
-    // Generate data
-    const unsigned arraySize = 32768;
-    int data[arraySize];
+Some blackboard sessions with my teammates felt like we were decoding alien signals. Others felt like perfect telepathy, finishing each other’s ideas and laughing at creative solutions. Coding standards help tilt more moments toward the telepathic side.  
 
-    for (unsigned c = 0; c < arraySize; ++c)
-        data[c] = std::rand() % 256;
+## Clean Code, Holy Commit (Bless This Repo 🙏)
 
-    // !!! With this, the next loop runs faster.
-    std::sort(data, data + arraySize);
+At first, those red ESLint underlines felt annoying—until they didn’t.  
+Once I got used to them, writing lint-free code became a personal game: get to zero errors, then add a layer of polish just because I can.  
 
-    // Test
-    clock_t start = clock();
-    long long sum = 0;
-    for (unsigned i = 0; i < 100000; ++i)
-    {
-        for (unsigned c = 0; c < arraySize; ++c)
-        {   // Primary loop.
-            if (data[c] >= 128)
-                sum += data[c];
-        }
-    }
+Clean code is a gift. It doesn’t take extra time once you’re in the habit, and it makes everyone else’s life easier. Win-win.  
 
-    double elapsedTime = static_cast<double>(clock()-start) / CLOCKS_PER_SEC;
+**Final verdict:** Coding standards are cool. They deserve their place in the workflow, not as a burden but as a quiet blessing—like the repo you pray over before pushing to main.  
 
-    std::cout << elapsedTime << '\n';
-    std::cout << "sum = " << sum << '\n';
-}
-```
-Because the question setup was solid, the answers explained not just *what* but *why*: modern CPUs “guess” which way an `if` will go (branch prediction). Sorted data makes that guess easy—so the loop flies—while random data causes mispredictions and slows things down. Responders backed this with measurements, rewrites that avoided the `if`, and compiler optimization notes. The top response to this question literally explained theory from scratch and backed it up with run-time data to show the original issue the question author faced and why. 
+---
 
-This is the **red pill**: one precise, reproducible question produced precise, reusable lessons for everyone.  
-
-By contrast, consider the vague post titled: Why is my LLM generating repetitive outputs? How can I improve diversity?
-
-At first glance, it looks like a good question — the title sounds clear — but the body immediately stumbles. The author pastes a description of their `generate()` parameters (`do_sample=True`, `temperature=1.0`, `top_k=50`), but stops there. They never share the actual code they used, a reproducible example, or any of the model’s outputs. Instead, the post is just a wall of text saying “my output repeats phrases like a loop.”  
-
-Readers are left guessing:  
-- Which model was used?  
-- What’s the input prompt?  
-- How long are the generations?  
-- Is this a dataset or model issue?  
-
-Because there is no minimal reproducible example, no before/after outputs, and no baseline for comparison, responders can’t do much beyond generic advice (“try changing `repetition_penalty`” or “lower your temperature”).  
-
-This is the **blue pill**: a seemingly well-titled question that collapses into vague problem descriptions and lacks actionable context. The thread risks stalling out or attracting downvotes — which is exactly what happened, with a negative score and no accepted solution. For the full question described you can take a look at the image below, no link is provided since the page was removed from StackOverflow.  
-
-
-<img width="800px" class="rounded" src="../img/badQuestion.png">
-
-
-## TL;DR: Ask Better, Suffer Less
-
-Good, strong questions earn attention and unlock high-signal answers.  
-
-The “sorted array” post modeled ESR’s rules—so the community delivered layered explanations that taught beyond the original task. By contrast, the “Update public key” post lacked structure, and so it died.  
-
-**Takeaway:** Treat forums like a lab.  
-- State the goal.  
-- Show the experiment.  
-- Report the data.  
-- Ask a focused *why*.  
-
-That’s how you get real answers.  
+**References**  
+Varbolean, C. (2025). *The Mars Climate Orbiter Mishap: Lessons in Metrication.* Journal of Aerospace Failures, 12(3), 45–52.
