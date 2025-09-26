@@ -2,15 +2,15 @@
 layout: essay
 type: essay
 title: "Pasta Code Only a Mother Could Love"
-date: 2025-09-25
+date: 2025-25-25
 published: true
 labels:
   - Coding Standards
   - Software Engineering
   - Clean Code
 ---
+<img src="../img/PastaMomLove.png" width="200" height="200" style="object-fit:cover;float:left;margin-right:1rem;">
 
-<img src="../img/PastaMomLove.png" width="220" height="220" style="object-fit:contain;float:left;margin-right:1rem;margin-bottom:0.5rem;">
 
 *Even spaghetti can be beautiful—with enough love (and ESLint).*
 
@@ -48,4 +48,4 @@ Clean code is a gift. It doesn’t take extra time once you’re in the habit, a
 
 ### References
 - Varbolean, C. (2025). *The Mars Climate Orbiter Mishap: Lessons in Metrication.*  
-  *Journal of Aerospace Failures*, 12(3), 45–52.
+  *Journal of Aerospace Failures*, 12(3), 45–52. 
