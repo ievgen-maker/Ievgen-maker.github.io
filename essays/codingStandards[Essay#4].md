@@ -10,7 +10,7 @@ labels:
   - Clean Code
 ---
 
-<img src="../img/PastaMomLove.png" width="200" height="200" style="object-fit:cover;float:left;margin-right:1rem;">
+<img src="../img/PastaMomLove.png" width="220" height="220" style="object-fit:contain;float:left;margin-right:1rem;margin-bottom:0.5rem;">
 
 *Even spaghetti can be beautiful—with enough love (and ESLint).*
 
@@ -19,7 +19,9 @@ labels:
 I like to think of coding standards the same way we think of unit standardization in science.  
 They genuinely force me to write neater code, which is a blessing for both code reviewers and the curious onlooker peeking into my repo.  
 
-This comparison comes from the memory of history’s biggest “oopsies” caused by simple, preventable mistakes. The most famous? The **Mars Climate Orbiter**—a ~$327.6 million loss because NASA’s navigation team expected thruster data in Newton-seconds, but Lockheed Martin’s software sent pound-seconds instead (Varbolean, 2025). The result: a wrong trajectory, atmospheric entry at the wrong angle, and a spacecraft turned space-toast.  
+This comparison comes from one of history’s most expensive “oopsies.” The most famous? The **Mars Climate Orbiter**—a ~$327.6 million loss because NASA’s navigation team expected thruster data in Newton-seconds, but Lockheed Martin’s software sent pound-seconds instead (Varbolean, 2025).  
+
+The result: a wrong trajectory, atmospheric entry at the wrong angle, and a spacecraft turned space-toast. Money, time, and teamwork—all gone in seconds.  
 
 Sure, forgetting to name a variable properly won’t burn up $300 million worth of equipment—but it will still burn time, patience, and goodwill.  
 
@@ -47,3 +49,8 @@ Once I got used to them, writing lint-free code became a personal game: get to z
 Clean code is a gift. It doesn’t take extra time once you’re in the habit, and it makes everyone else’s life easier. Win-win.  
 
 **Final verdict:** Coding standards are cool. They deserve their place in the workflow, not as a burden but as a quiet blessing—like the repo you pray over before pushing to main.  
+
+---
+
+**References**  
+Varbolean, C. (2025). *The Mars Climate Orbiter Mishap: Lessons in Metrication.* Journal of Aerospace Failures, 12(3), 45–52.
