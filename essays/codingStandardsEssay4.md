@@ -10,7 +10,7 @@ labels:
   - Clean Code
 ---
 
-![Even spaghetti can be beautiful—with enough love (and ESLint).](../img/PastaMomLove.png){: style="float:left;width:220px;height:220px;object-fit:contain;margin-right:1rem;margin-bottom:0.5rem;" }
+<img src="../img/PastaMomLove.png" width="220" height="220" style="object-fit:contain;float:left;margin-right:1rem;margin-bottom:0.5rem;">
 
 *Even spaghetti can be beautiful—with enough love (and ESLint).*
 
