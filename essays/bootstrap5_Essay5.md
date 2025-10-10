@@ -51,3 +51,8 @@ What I’ve learned most is that front-end development isn’t just about gettin
 Sure, sometimes my grids break, and I’ve spent more time than I’d like to admit wondering why my navbar suddenly disappeared into another dimension. But honestly? That’s part of the charm. Every error is just another reminder that good design takes patience — and a lot of debugging.  
 
 At the end of the day, Bootstrap 5 really is “One Framework to Align Them All.”  
+
+
+**Works Cited**
+
+Lyft, Inc. *Lyft: Your friend with a car.* Lyft, 2025, [https://www.lyft.com](https://www.lyft.com).
