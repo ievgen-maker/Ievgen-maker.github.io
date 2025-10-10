@@ -12,7 +12,7 @@ labels:
 
 ## **The Fellowship of the Grid**
 
-I’m not entirely sure how many people think of software engineers mainly as the ones responsible for website development—but I certainly do. Maybe it’s my bias, but that’s the image that comes to mind. As someone taking software engineering and currently learning HTML and CSS, it’s been enlightening to see just how much more complicated UI development is than I ever imagined.
+I’m not entirely sure how many people think of software engineers mainly as the ones responsible for website development—but I certainly do. Though it’s my old standing bias, but that’s the image that comes to mind (of course I obviously now fully realize Software Engineering is more than website building). As someone taking software engineering and currently learning HTML and CSS, it’s been enlightening to see just how much more complicated UI development is than I ever imagined.
 
 At first, learning raw HTML felt rough. Everything seemed a little disorganized, and I felt like I needed a clear plan to build what I envisioned. Still, it amazed me how people could take something so plain and turn it into a functional, beautiful website. Then I discovered Bootstrap 5—and honestly, it’s a lifesaver.
 
@@ -40,7 +40,9 @@ I think that’s what makes Lyft’s website so great — it looks good and work
 
 The photo right below that — an older woman smiling as she gets into a car — adds warmth and personality. It gives the impression that Lyft isn’t just about transportation but about people connecting. Everything from the clean text to the image placement feels intentional. Maybe it’s wrong or not to say, I’m not a critic, but in my personal opinion Lyft’s website builds a culture around its image — simple, open, and human. The aesthetics are definitely a big part of that. Since design and usability are part of Lyft’s vision, their website naturally follows that same philosophy. Being a college student and someone learning web development, I can’t help but admire how effortless they make it all seem. It feels premium, easy to use, and somehow familiar — almost instinct. Take a look: 
 
-<img width="200px" class="rounded float-start pe-4" src="../img/lyft.png">
+<div style="text-align:center;">
+  <img src="../img/lyft.png" alt="Lyft homepage example" width="320" style="border-radius:12px; margin:1rem 0;">
+</div>
 
 ## **The Breaking of the Build**
 
