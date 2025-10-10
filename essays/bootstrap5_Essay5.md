@@ -24,11 +24,6 @@ Weird as it sounds, Bootstrap 5 reminds me of coding in Java. Everything feels l
 As a beginner, I’m sure I’ve only scratched the surface of what Bootstrap 5 can do. There are so many ways to achieve the same design through different code approaches, which fascinates me. For me, the biggest selling point is that everything you see and interact with on the screen can be manually customized to behave exactly how you want—tailored to your own vision of how users should experience your site.
 
 
-## **The Return of the Navbar**
-
-But even with all this freedom, HTML can still be tricky. If you don’t have a clear plan or a mental picture of what you’re building, your site can quickly feel incomplete and your code messy. The layout, margins, and spacing can change drastically each time you rework your design. It’s both the beauty and the challenge of front-end development: total freedom, but only if you know where you’re going.
-
-
 ## **The Ride of the Lyft-Kings**
 
 A good example of websites that show they know what they're doing are the ones that feel like even a person who has never interacted with technology before would be able to navigate them perfectly — as if it were second nature, almost instinct. Some of these websites, for instance, can be Spotify or Lyft, or even Vogue, which all use Bootstrap 5 as part of their web development. Spotify’s website feels smooth and natural to move through, with everything laid out so clearly that you never really have to think about what to click next. Lyft has that same kind of flow — it feels intuitive, organized, and responsive no matter what device you’re on. And Vogue, though focused on visuals, still keeps its layout elegant and minimal in a way that feels clean and intentional.
