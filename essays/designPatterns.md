@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Please Exit the Spaghetti Code Slowly and Walk Toward the Design Patterns"
-date: 2025-09-25
+date: 2025-12-04
 published: true
 labels:
   - Software Engineering
