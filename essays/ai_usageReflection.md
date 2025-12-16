@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: essay
 type: essay
@@ -137,4 +136,4 @@ The biggest improvement area is teaching responsible use. That means students le
 My overall reflection is that AI in ICS 314 can be either a huge advantage or a huge trap. It saves time, improves iteration speed, and can accelerate learning, especially for debugging, concept clarification, and extra WOD practice. But it can also create overreliance, weaken comprehension, and reduce authentic problem-solving if it becomes a shortcut instead of a support.
 
 If I had to summarize my recommendation in one sentence, it would be this: integrate AI in a way that encourages learning rather than replacement. Promote small, targeted prompts, require verification, and treat AI like a powerful tool that you control, not something that controls your effort. At the end of the day, the impact of AI isn’t determined by the tool itself. It’s determined by how we choose to interact with it.
-```
+
