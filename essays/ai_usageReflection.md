@@ -24,7 +24,7 @@ In Software Engineering (and specifically in ICS 314), this matters a lot becaus
 
 ## II. Personal Experience with AI (ICS 314)
 
-### 1 Experience WODs (e.g., E18)
+### Experience WODs (e.g., E18)
 
 For experience WODs, it’s basically the same WOD pressure but with a slightly different flavor: you still need speed, but you also need accuracy because the task usually has hidden “gotchas.” AI was most useful here when I treated it like a *debugging mirror* instead of a *solution generator*.
 
@@ -43,7 +43,7 @@ For experience WODs, it’s basically the same WOD pressure but with a slightly 
 - Sometimes it suggested solutions that worked in general, but didn’t match the course’s intended approach.
 
 
-### 2 In-class Practice WODs
+### In-class Practice WODs
 
 In-class practice WODs are where AI can either help you build skill or quietly destroy it, depending on whether you’re using it as a tutor or as a shortcut. I tried to use AI for *micro-help*—one concept, one bug, one line—so the practice still stayed real.
 
@@ -62,7 +62,7 @@ In-class practice WODs are where AI can either help you build skill or quietly d
 - Sometimes the explanation was technically correct but not intuitive, which slowed me down anyway.
 
 
-### 3 In-class WODs
+### In-class WODs
 
 In-class WODs are the most high-stress version of the same skillset: time constraints, performance pressure, and limited room for mistakes. After enough practice, AI became less of a teacher and more of a *panic button* for weird edge cases or syntax blanks.
 
@@ -79,7 +79,7 @@ In-class WODs are the most high-stress version of the same skillset: time constr
 - The risk isn’t just academic—it’s personal confidence. If AI becomes the safety net, you stop trusting your own thinking.
 
 
-### 4 Essays
+### Essays
 
 AI is good for a quick scan, grammar cleanup, and helping organize thoughts. It can also generate a draft, but that’s where the danger is: generating a draft can trap you in a false sense of “I wrote this,” when really the voice and authenticity are missing.
 
@@ -97,7 +97,7 @@ AI is good for a quick scan, grammar cleanup, and helping organize thoughts. It 
 - It can suggest claims that sound good but aren’t actually grounded in what you wrote.
 
 
-### 5 Final project
+### Final project
 
 In larger settings like team work, AI performs relative to the context: the people involved, the codebase size, and the specificity of the problem. It’s really good at giving a coding draft, but those drafts often miss edge cases and project conventions.
 
@@ -116,7 +116,7 @@ In larger settings like team work, AI performs relative to the context: the peop
 - If I asked it to rewrite an entire file, it tended to overcorrect and “rebuild” things that didn’t need rebuilding.
 
 
-### 6 Learning a concept / tutorial
+### Learning a concept / tutorial
 
 This one is dependent on prompting. A weak prompt leads to either irrelevant teaching or a complicated explanation that doesn’t match your level. A strong prompt makes AI feel like a personal tutor.
 
@@ -134,7 +134,7 @@ This one is dependent on prompting. A weak prompt leads to either irrelevant tea
 - Sometimes the explanation is correct but still not usable under pressure.
 
 
-### 7 Answering a question in class or in Discord
+### Answering a question in class or in Discord
 
 I don’t have a ton of experience using AI directly for this, but I can see how it helps with quick clarification. The main risk is that it can produce answers that are “too much” for the moment.
 
@@ -151,7 +151,7 @@ I don’t have a ton of experience using AI directly for this, but I can see how
 - Still requires judgment about course level and what’s appropriate to share.
 
 
-### 8 Asking or answering a smart-question
+### Asking or answering a smart-question
 
 Same logic as above. AI is useful here because it can turn a vague question into something answerable, which is a real skill in software engineering.
 
@@ -167,7 +167,7 @@ Same logic as above. AI is useful here because it can turn a vague question into
 - If you always rely on AI to form the question, you don’t develop the skill naturally.
 
 
-### 9 Coding example (e.g., “give an example of using Underscore .pluck”)
+### Coding example (e.g., “give an example of using Underscore .pluck”)
 
 I honestly didn’t use AI much for this. I stayed personally interested in figuring out examples myself, because examples are where you can accidentally inherit a solution and stop thinking.
 
@@ -179,7 +179,7 @@ I honestly didn’t use AI much for this. I stayed personally interested in figu
 - If the example is “gifted” to you too easily, your brain doesn’t build the connection.
 
 
-### 10 Explaining code
+### Explaining code
 
 AI is useful for explaining code *when you already have the code*. It helps surface assumptions and logic paths you might not notice.
 
@@ -196,7 +196,7 @@ AI is useful for explaining code *when you already have the code*. It helps surf
 - If you trust the explanation blindly, you can end up misunderstanding your own code.
 
 
-### 11 Writing code
+### Writing code
 
 AI is strongest when writing code in *small pieces*, not entire files. The more you ask it to generate, the more likely it goes out of scope.
 
@@ -213,7 +213,7 @@ AI is strongest when writing code in *small pieces*, not entire files. The more 
 - Too easy to accept code without truly owning the logic.
 
 
-### 12 Documenting code
+### Documenting code
 
 This is one of the cleaner uses because documentation is about clarity, not invention.
 
@@ -229,9 +229,9 @@ This is one of the cleaner uses because documentation is about clarity, not inve
 - Documentation can become “fluffy” unless you keep it strict.
 - If the AI misunderstood the code, it can document the wrong behavior.
 
----
 
-### 13 Quality assurance (e.g., “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”)
+
+### Quality assurance (e.g., “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”)
 
 This is one of the most practical uses. QA questions are well-scoped and grounded in concrete errors.
 
@@ -248,9 +248,9 @@ This is one of the most practical uses. QA questions are well-scoped and grounde
 - Easy to accept fixes without learning why they matter.
 - Sometimes it “fixes” by silencing warnings rather than improving the code.
 
----
 
-### 14 Other uses in ICS 314 not listed
+
+### Other uses in ICS 314 not listed
 
 **Other ways I used AI:**
 - **Planning + checklists:** “Given this requirement, list the steps I should implement in order.”
