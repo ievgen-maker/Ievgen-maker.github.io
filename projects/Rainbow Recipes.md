@@ -43,4 +43,4 @@ Tool-wise, I stopped thinking of Git and GitHub as “just submission” and sta
 ## Links
 
 The deployed application is available at [https://rainbow-recipes.vercel.app](https://rainbow-recipes.vercel.app). The GitHub organization page is available at [https://rainbow-recipes.github.io](https://rainbow-recipes.github.io). The source code is available directly at [https://github.com/rainbow-recipes/rainbow-recipes](https://github.com/rainbow-recipes/rainbow-recipes).
-```
+
