@@ -9,7 +9,8 @@ labels:
   - Application Development
   - Database & Backend
   - Optimization and Mathematic Approach
-overview: "Web application designed and implemented under the ICS314 large group project with the use of GitHub, Git, VSCode, ESLint, Prisma, and Vercel."
+
+summary: "Web application designed and implemented under the ICS314 large group project with the use of GitHub, Git, VSCode, ESLint, Prisma, and Vercel."
 ---
 
 ## Overview
