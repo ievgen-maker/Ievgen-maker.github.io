@@ -1,3 +1,4 @@
+```markdown
 ---
 layout: project
 type: project
@@ -8,38 +9,39 @@ published: true
 labels:
   - Application Development
   - Database & Backend
-  - Optimization & Mathematical Approach
-summary: "Web application developed and deployed as part of the ICS314 large group project using GitHub, Git, VSCode, ESLint, Prisma, and Vercel."
+  - Optimization and Mathematic Approach
+overview: "Web application designed and implemented under the ICS314 large group project with the use of GitHub, Git, VSCode, ESLint, Prisma, and Vercel."
 ---
 
 ## Overview
 
-Rainbow Recipes is a comprehensive platform built for University of Hawaiʻi students who want quick, affordable, and genuinely good meal options without turning cooking into a second job. Student life comes with tight budgets, limited time, and the constant question of “okay, but where do I even get the ingredients near campus?”—so the whole point of Rainbow Recipes is to bridge that gap. The app lets users browse and save recipes, explore vendor information, and use a vendor map to connect meal planning to real ingredient sourcing around UH. The live site is available at [https://rainbow-recipes.vercel.app](https://rainbow-recipes.vercel.app), and the GitHub organization page is [https://rainbow-recipes.github.io](https://rainbow-recipes.github.io) for anyone who wants the broader project context.
+Rainbow Recipes is basically an effort to make cooking as a UH student achievable rather than a nightmare. It’s a service built for University of Hawaiʻi students who need fast and cheap food, but don’t have unlimited time, money, or patience to hunt down ingredients around campus. The app fills the gap between “I want to cook something decent” and “I have no idea what to make or where to get the ingredients” by letting users browse and save recipes, read vendor information, and use a vendor map to connect a recipe to real-life ingredient sourcing. The live site is at [https://rainbow-recipes.vercel.app](https://rainbow-recipes.vercel.app), and the GitHub organization page is at [https://rainbow-recipes.github.io](https://rainbow-recipes.github.io) if you want the bigger picture.
 
 <img width="900px" class="rounded mx-auto d-block my-4" src="../img/landingPage.png">
 
 ## Contributions
 
-A lot of my contributions were about turning the project from “it technically runs” into something that feels consistent, maintainable, and ready for real users. I designed and implemented the site footer so navigation stayed clean and predictable across pages, because small UI details like that are what make an app feel cohesive instead of stitched together. On the backend side, I worked on database schema creation and management using Prisma, which meant making sure our data model actually matched what the app needed as we added features, and keeping things structured so future changes didn’t turn into a migration nightmare.
+A lot of what I worked on was the “make it feel like a real application” layer, plus parts of the internal structure that kept things from collapsing as features got added. I designed and implemented the footer so navigation stayed consistent across the site, because in group projects the small stuff is what makes the difference between “finished” and “kind of pasted together.” I also worked on creating and maintaining the backend database schema with Prisma, which meant keeping the data model clean as we added functionality and making sure we weren’t quietly creating future problems every time we introduced a new relationship or table.
 
-I also contributed the vendor map feature, which was one of the most “real life” parts of the app because it connects recipes to actual sourcing around campus, not just hypothetical ingredients. That feature forced me to think about data organization, how vendors should be represented, and how the UI should communicate location-based information without overwhelming the user.
+The feature I’m most proud of is the vendor map, because that’s where the app stops being “just recipes” and starts feeling connected to real student life. A recipe is nice, but it becomes way more useful when the app can answer the question, “okay, where can I actually buy this around campus?”
 
 <img width="900px" class="rounded mx-auto d-block my-4" src="../img/mapVendor.png">
 
-I built out the profile page so users could manage who they are in the system and have one place for their saved content, which made the app feel personal instead of anonymous. That work also pushed me to think about how authentication connects to user-specific data, and how you avoid “ghost data” problems where the UI looks right but the database isn’t actually consistent.
+I also built the profile page so users could have their own space in the app, where their account and saved items actually live. That work pushed me to think through how sign-in connects to user-specific data, and how to keep the experience consistent so it doesn’t feel random or buggy.
 
 <img width="900px" class="rounded mx-auto d-block my-4" src="../img/recipeList.png">
 
-On the reliability side, I wrote Playwright tests so we could catch regressions early and avoid the classic group-project problem of “it worked yesterday and nobody knows why it’s broken today.” I also configured sign-in and sign-out functionality so accounts behaved predictably, sessions didn’t feel random, and user actions actually mapped to the right data. Finally, I helped with team risk management and coordination, which mostly meant identifying what could derail progress (time, overlapping work, merge conflicts, unclear ownership) and pushing the team toward clear responsibilities when schedules got messy during exams and the holidays.
+On the reliability side, I wrote Playwright tests because group projects have this cursed habit of breaking something that worked yesterday, and automated tests are one of the few ways to catch that early. I also configured sign-in and sign-out so accounts behaved predictably and the app didn’t feel like it had session amnesia. Finally, I supported team risk management and coordination, which mostly meant keeping us realistic about timing, reducing duplicated work, and lowering the chaos when exams and holidays made everyone’s schedules unpredictable.
 
 ## What I Learned
 
-The biggest lesson for me was that teamwork only really scales when the system itself is built to support teamwork. If the codebase is tangled, even good teammates end up stepping on each other, and progress turns into constant merge conflicts and “who changed this?” conversations. But when the project is divided into independent parts with clear responsibilities, people can move fast in parallel without breaking each other’s work, and the whole thing starts to feel like one machine instead of five separate half-projects.
+The biggest thing I learned is that teamwork is way easier when the project is built to support teamwork. When everything is tangled together, even good teammates end up stepping on each other, and development turns into a merge-conflict simulator. But when the project is divided into independent parts with clear responsibilities, people can work in parallel without constantly colliding, and the whole thing starts to feel like one system instead of a pile of half-finished ideas.
 
-I also learned how important it is to think in terms of interfaces and contracts instead of “my code vs your code.” Even simple agreements—like what a user object should contain, what a vendor entry looks like, or what a page is allowed to assume about the database—save hours of debugging later. This was where I really understood that planning is not a delay; it’s an investment. When we planned first, implementation felt straightforward. When we didn’t, we paid for it later with rework and confusion.
+I also learned that planning early isn’t wasted time, even though it feels like it in the moment. The times we slowed down to agree on structure—what the data should look like, what a feature is responsible for, and what a page can safely assume—were the times we saved ourselves hours of confusion later. It’s basically the difference between building with a map and walking into a forest hoping you eventually find the exit.
 
-Tooling was another major takeaway, because it taught me how real projects stay stable outside a single laptop. Git and GitHub stopped being “just submission tools” and became the actual backbone of collaboration, especially when we were working in parallel and needed a clean history of changes. Prisma taught me how much power there is in having a strong, consistent data model instead of letting your database structure drift as features get added. Playwright taught me that automated tests aren’t just for big companies; they’re a survival mechanism when multiple people are pushing changes quickly. And deployment through Vercel made it obvious that “works on my machine” is not a success condition—real software has to run reliably in a real environment, with real configuration, and predictable behavior.
+Tool-wise, I stopped thinking of Git and GitHub as “just submission” and started seeing them as the backbone of real collaboration. Prisma made me appreciate how much easier life is when your database stays clean instead of slowly turning into a junk drawer. Playwright taught me that testing isn’t extra credit—it’s how you keep a project from randomly collapsing when multiple people are pushing changes. And deploying through Vercel made it obvious that “works on my laptop” doesn’t mean much unless it runs reliably in a real environment too.
 
 ## Links
 
-You can visit the deployed application at [https://rainbow-recipes.vercel.app](https://rainbow-recipes.vercel.app). You can explore the GitHub organization page at [https://rainbow-recipes.github.io](https://rainbow-recipes.github.io). You can view the source code directly in the repository at [https://github.com/rainbow-recipes/rainbow-recipes](https://github.com/rainbow-recipes/rainbow-recipes).
+The deployed application is available at [https://rainbow-recipes.vercel.app](https://rainbow-recipes.vercel.app). The GitHub organization page is available at [https://rainbow-recipes.github.io](https://rainbow-recipes.github.io). The source code is available directly at [https://github.com/rainbow-recipes/rainbow-recipes](https://github.com/rainbow-recipes/rainbow-recipes).
+```
